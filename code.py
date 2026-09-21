@@ -1,5 +1,5 @@
 import pandas as pd
-import os
+import os 
 
 # Create a sample DataFrame with column names
 data = {
